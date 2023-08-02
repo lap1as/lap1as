@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lap1as
 - 👀 I’m interested in WebDevelopmant,Cybersecurity and Networks
-- 🌱 I’m currently learning CS50, Python(Django/Flask)
+- 🌱 I’m currently learning Python(Django/Flask)
 - 📫 How to reach me: telegram @playgame1515
 
 <!---
