@@ -8,7 +8,7 @@ Python Developer
 * ✉️  You can contact me at [kuzukoleg12@gmail.com](mailto:kuzukoleg12@gmail.com)
 
 
-<a href="https://t.me/telegram_username" target="_blank" rel="noreferrer">
+<a href="https://t.me/playgame1515" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram&style=for-the-badge&color=2CA5E0&labelColor=1c1917" />
 </a>
 
