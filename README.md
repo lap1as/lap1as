@@ -48,7 +48,7 @@ Python Developer
 
 <div class="stats-container">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lap1as&theme=aura_dark" alt="GitHub Stats" />
-  &#160;&#160;
+  &#160;&#160;&#160;
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lap1as&theme=aura_dark&utcOffset=8" alt="Productive Time" />
 </div>
   
