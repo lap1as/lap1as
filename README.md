@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oleh
+My name is Oleh
 ============================================================================================================================
 
 Python Developer
@@ -46,7 +46,13 @@ Python Developer
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lap1as&theme=aura_dark)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lap1as&theme=aura_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lap1as&theme=aura_dark&utcOffset=8)
+<div class="stats-container">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lap1as&theme=aura_dark" alt="GitHub Stats" />
+  &#160;&#160;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lap1as&theme=aura_dark&utcOffset=8" alt="Productive Time" />
+</div>
+  
+
 
 
 <!---
